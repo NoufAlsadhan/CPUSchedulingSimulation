@@ -1,0 +1,15 @@
+The detalied information about each process:
+
+1.Process id:P1| Priority:3.0| Cpu burst:3.0| Arrival time:0.0| Start time:0.0| Termination time:7.0| Turn around time:7.0| Waiting time:4.0| Response time:0.0| CS:0.0
+
+2.Process id:P2| Priority:1.0| Cpu burst:2.0| Arrival time:2.0| Start time:3.0| Termination time:5.0| Turn around time:3.0| Waiting time:1.0| Response time:1.0| CS:0.0
+
+3.Process id:P4| Priority:3.0| Cpu burst:2.0| Arrival time:5.0| Start time:8.0| Termination time:10.0| Turn around time:5.0| Waiting time:3.0| Response time:3.0| CS:0.0
+
+4.Process id:P3| Priority:5.0| Cpu burst:1.0| Arrival time:7.0| Start time:11.0| Termination time:12.0| Turn around time:5.0| Waiting time:4.0| Response time:4.0| CS:0.0
+
+Average turn around time=5.0
+Average waiting time=3.0
+Average response time=2.0
+
+[P1 | P1 | CS  | P2 | P2 | CS  | P1 | CS  | P4 | P4 | CS  | P3]
